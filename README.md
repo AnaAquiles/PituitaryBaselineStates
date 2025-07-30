@@ -1,4 +1,4 @@
-# 🧬 Pituitary Baseline States
+# :mag_right: Pituitary Baseline States
 
 Welcome to **PituitaryBaselineStates** — a simulation toolkit designed to explore the hidden rhythms of the pituitary gland. This project dives into how **aperiodic signal components** shape spontaneous activity and contribute to baseline hormonal dynamics.
 
@@ -30,10 +30,12 @@ Here’s what you’ll find inside this repository:
 
 ### :part_alternation_mark: `Spikers-Bursters.py`
 
-🔄 **Modified from**: *Conversion of spikers to bursters in pituitary cell networks*  
- Original authors: Mehran Fazli & Richard Bertram 
+🔄 **Adapted from**:  
+**Conversion of Spikers to Bursters in Pituitary Cell Networks: Is it Better to Disperse for Maximum Exposure or Circle the Wagons?**  
+by Mehran Fazli & Richard Bertram, *PLOS Computational Biology*, January 2024.  
+DOI: [10.1371/journal.pcbi.1011811](https://doi.org/10.1371/journal.pcbi.1011811) :contentReference[oaicite:1]{index=1}
 
-We adapted this model to include a **randomized connectivity matrix** that lets you explore how changing the proportion of burster-type cells affects both electrical and synthetic calcium signals.
+We extended their model by adding a **randomized connectivity matrix** that allows you to vary the proportion of bursting (burster-type) cells and observe how this affects synthesized electrical and calcium signals.
 
 > 🧩 Want to understand how population density shifts influence pituitary dynamics? Start here.
 
