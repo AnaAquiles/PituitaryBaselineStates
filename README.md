@@ -1,8 +1,74 @@
-# PituitaryBaselineStates
+# 🧬 Pituitary Baseline States
 
-In this repertory your will found some powerfull simulations that have as a main help to understand how much the aperiodic components of a transitory signal could be represented in a oscillation. 
-The resulted simulations were described and explained in the Early career perspective, in the following link: comming soon under revision 
+Welcome to **PituitaryBaselineStates** — a simulation toolkit designed to explore the hidden rhythms of the pituitary gland. This project dives into how **aperiodic signal components** shape spontaneous activity and contribute to baseline hormonal dynamics.
 
-In few words we propose,  While the gland’s responsiveness to hormonal cues is well documented, its intrinsic spontaneous activity, emerging in the absence of external stimuli, remains less understood yet critically important. This review explores evidence on the pituitary’s functional balance during baseline dynamics, focusing on the interplay of excitatory and inhibitory signals that may drive spontaneous hormone release. We examine mechanisms underlying functional plasticity and propose complementary theoretical approaches to assess the existence of excitation-inhibition (E:I) balance, including analysis of aperiodic signal components and the application of information theory metrics to capture signal complexity. We argue that the pituitary’s multimodal regulation, shaped by structural topology, stochastic interactions, and feedback mechanisms, supports a homeostatic yet flexible response to internal demands. By integrating experimental findings with systems biology perspectives, we highlight novel frameworks for analyzing spontaneous endocrine activity and suggest future directions to probe the role of local network plasticity. Ultimately, understanding baseline pituitary behavior may reveal foundational principles of hormonal adaptability. 
+These simulations support ideas presented in our **early career perspective**, which introduces a novel framework to evaluate baseline activation in the pituitary gland.  
+📄 *Manuscript link coming soon — currently under revision.*
 
+---
 
+## :shipit: What’s This All About?
+
+While the pituitary’s responsiveness to external hormonal cues is well understood, its **spontaneous, intrinsic activity** remains underexplored — yet may hold the key to understanding hormonal adaptability and internal homeostasis.
+
+In our perspective, we propose that:
+> Baseline pituitary activity emerges from the delicate interplay between **excitatory and inhibitory signals**, stochastic fluctuations, and feedback regulation — forming a flexible and self-regulated network.
+
+We explore:
+- Functional **E:I balance** in spontaneous pituitary states
+- The role of **aperiodic signal components** in measuring baseline activation
+- How **information theory metrics** (like entropy or mutual information) can reveal deeper signal complexity
+- Novel computational models that simulate the **structural and functional plasticity** of pituitary networks
+
+---
+
+## Simulation Overview
+
+Here’s what you’ll find inside this repository:
+
+---
+
+### :part_alternation_mark: `Spikers-Bursters.py`
+
+🔄 **Modified from**: *Conversion of spikers to bursters in pituitary cell networks*  
+ Original authors: Mehran Fazli & Richard Bertram 
+
+We adapted this model to include a **randomized connectivity matrix** that lets you explore how changing the proportion of burster-type cells affects both electrical and synthetic calcium signals.
+
+> 🧩 Want to understand how population density shifts influence pituitary dynamics? Start here.
+
+---
+
+### 🔁 `SignalScenarios.py`
+
+Simulates two distinct **cell-cell interaction patterns** observed in pituitary networks:
+
+1. 🧭 **Synchronous-only** signals with low aperiodicity  
+2. 🎭 **Mixed-mode** signals showing both synchronous and asynchronous interactions
+
+These patterns reflect different organizational strategies and dynamic states within the gland. They're particularly useful when testing hypotheses about **network coherence** and **signal heterogeneity**.
+
+---
+
+### 🌫 `AperiodicModelization.py`
+
+This is your lab for **signal decomposition**:
+
+- Explore the balance between **periodic (oscillatory)** and **aperiodic (noise-like)** components
+- Test how different **aperiodic exponent** values affect the dynamics of small networks (default: 5 cells)
+- Visualize how signal shape shifts with changes in stochastic background activity
+
+> 🎛 Think of this as a sandbox to understand complexity and connectivity in endocrine microcircuits.
+
+---
+
+## 🤝 Let's Connect!
+
+Have a question? Want to collaborate or contribute? I'm always open to feedback, new ideas, and interdisciplinary dialogue.
+
+📫 **Contact**  
+- ana.aquiles@igf.cnrs.fr  
+
+---
+
+**Happy exploring — and may your signals be informative!** :shipit:
