@@ -33,7 +33,7 @@ Here’s what you’ll find inside this repository:
 🔄 **Adapted from**:  
 **Conversion of Spikers to Bursters in Pituitary Cell Networks: Is it Better to Disperse for Maximum Exposure or Circle the Wagons?**  
 by Mehran Fazli & Richard Bertram, *PLOS Computational Biology*, January 2024.  
-DOI: [10.1371/journal.pcbi.1011811](https://doi.org/10.1371/journal.pcbi.1011811) :contentReference[oaicite:1]{index=1}
+DOI: [10.1371/journal.pcbi.1011811](https://doi.org/10.1371/journal.pcbi.1011811) 
 
 We extended their model by adding a **randomized connectivity matrix** that allows you to vary the proportion of bursting (burster-type) cells and observe how this affects synthesized electrical and calcium signals.
 
