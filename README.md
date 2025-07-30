@@ -1,1 +1,8 @@
 # PituitaryBaselineStates
+
+In this repertory your will found some powerfull simulations that have as a main help to understand how much the aperiodic components of a transitory signal could be represented in a oscillation. 
+The resulted simulations were described and explained in the Early career perspective, in the following link: comming soon under revision 
+
+In few words we propose,  While the gland’s responsiveness to hormonal cues is well documented, its intrinsic spontaneous activity, emerging in the absence of external stimuli, remains less understood yet critically important. This review explores evidence on the pituitary’s functional balance during baseline dynamics, focusing on the interplay of excitatory and inhibitory signals that may drive spontaneous hormone release. We examine mechanisms underlying functional plasticity and propose complementary theoretical approaches to assess the existence of excitation-inhibition (E:I) balance, including analysis of aperiodic signal components and the application of information theory metrics to capture signal complexity. We argue that the pituitary’s multimodal regulation, shaped by structural topology, stochastic interactions, and feedback mechanisms, supports a homeostatic yet flexible response to internal demands. By integrating experimental findings with systems biology perspectives, we highlight novel frameworks for analyzing spontaneous endocrine activity and suggest future directions to probe the role of local network plasticity. Ultimately, understanding baseline pituitary behavior may reveal foundational principles of hormonal adaptability. 
+
+
