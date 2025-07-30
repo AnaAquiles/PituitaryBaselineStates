@@ -10,8 +10,8 @@ from scipy.stats import norm
 
 """
       Simulations of aperiodic components and how different values are not showed in
-      the periodic common representations, as 
-
+                     the periodic common representations
+                     
        Result plots where used for Figure 3 and 4 of  Review published in : 
 """
 plt.style.use('fivethirtyeight')
@@ -116,8 +116,8 @@ for i in range(Cells):
     AperiodicExp[i] = np.abs(fit_func(Frex_[:,i], Spex_[:,i]))
 
 """
-       Plot the transient signals simulated before helped with a butter bandpass filter
-               going from 0.5 - 50 Hz , only for a best visualization 
+       Transient signals that were simulated before were plotted using a Butterworth bandpass filter 
+         with a frequency range of 0.5–50 Hz, which was only done for the best visualisation 
 
 """
 
