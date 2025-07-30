@@ -1,6 +1,6 @@
 # :mag_right: Pituitary Baseline States
 
-Welcome to **PituitaryBaselineStates** — a simulation toolkit designed to explore the hidden rhythms of the pituitary gland. This project dives into how **aperiodic signal components** shape spontaneous activity and contribute to baseline hormonal dynamics.
+Welcome to **PituitaryBaselineStates** , a simulation toolkit designed to explore the hidden rhythms of the pituitary gland. This project dives into how **aperiodic signal components** shape spontaneous activity and contribute to baseline hormonal dynamics.
 
 These simulations support ideas presented in our **early career perspective**, which introduces a novel framework to evaluate baseline activation in the pituitary gland.  
 📄 *Manuscript link coming soon — currently under revision.*
@@ -9,7 +9,7 @@ These simulations support ideas presented in our **early career perspective**, w
 
 ## :shipit: What’s This All About?
 
-While the pituitary’s responsiveness to external hormonal cues is well understood, its **spontaneous, intrinsic activity** remains underexplored — yet may hold the key to understanding hormonal adaptability and internal homeostasis.
+While the pituitary’s responsiveness to external hormonal cues is well understood, its **spontaneous, intrinsic activity** remains underexplored, yet may hold the key to understanding hormonal adaptability and internal homeostasis.
 
 In our perspective, we propose that:
 > Baseline pituitary activity emerges from the delicate interplay between **excitatory and inhibitory signals**, stochastic fluctuations, and feedback regulation — forming a flexible and self-regulated network.
@@ -73,4 +73,4 @@ Have a question? Want to collaborate or contribute? I'm always open to feedback,
 
 ---
 
-**Happy exploring — and may your signals be informative!** :shipit:
+**Happy exploring** :shipit:
