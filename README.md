@@ -52,7 +52,7 @@ These patterns reflect different organizational strategies and dynamic states wi
 
 ---
 
-### 🌫 `AperiodicModelization.py`
+### 🌫 `AperiodicModeling.py`
 
 This is your lab for **signal decomposition**:
 
