@@ -1,4 +1,4 @@
-
+from itertools import cycle, islice,permutations
 import numpy as np
 import matplotlib.pyplot as plt
 import random
@@ -356,3 +356,4 @@ for i in range(num_cell):
     plt.setp(ax.get_yticklabels(), fontsize=25)
 plt.tight_layout()
 plt.show()
+
