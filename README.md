@@ -19,7 +19,7 @@ We explore:
 - The role of **aperiodic signal components** in measuring baseline activation
 - How **information theory metrics** (like entropy or mutual information) can reveal deeper signal complexity
 - Novel computational models that simulate the **structural and functional plasticity** of pituitary networks
-
+![Alt text](./images/BigPic.png)
 ---
 
 ## Simulation Overview
