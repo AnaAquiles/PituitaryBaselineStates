@@ -2,7 +2,7 @@
 
 Welcome to **PituitaryBaselineStates** , a simulation toolkit designed to explore the hidden rhythms of the pituitary gland. This project dives into how **aperiodic signal components** shape spontaneous activity and contribute to baseline hormonal dynamics.
 
-These simulations support ideas presented in our **early career perspective**, which introduces a novel framework to evaluate baseline activation in the pituitary gland.  
+These simulations support ideas presented in my **early career perspective**, which introduces a novel framework to evaluate baseline activation in the pituitary gland.  
 📄 *Manuscript link coming soon — currently under revision.*
 
 ---
